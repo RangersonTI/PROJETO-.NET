@@ -1,0 +1,12 @@
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\bin\Debug\net9.0\CL.Core.deps.json
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\bin\Debug\net9.0\CL.Core.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\bin\Debug\net9.0\CL.Core.pdb
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\CL.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\CL.Core.AssemblyInfoInputs.cache
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\CL.Core.AssemblyInfo.cs
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\CL.Core.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\CL.Core.sourcelink.json
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\CL.Core.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\refint\CL.Core.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\CL.Core.pdb
+D:\Documents\GitHub\PROJETO-.NET\CL.Core\obj\Debug\net9.0\ref\CL.Core.dll

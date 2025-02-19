@@ -1,0 +1,12 @@
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\bin\Debug\net9.0\CL.Manager.deps.json
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\bin\Debug\net9.0\CL.Manager.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\bin\Debug\net9.0\CL.Manager.pdb
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\CL.Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\CL.Manager.AssemblyInfoInputs.cache
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\CL.Manager.AssemblyInfo.cs
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\CL.Manager.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\CL.Manager.sourcelink.json
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\CL.Manager.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\refint\CL.Manager.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\CL.Manager.pdb
+D:\Documents\GitHub\PROJETO-.NET\CL.Manager\obj\Debug\net9.0\ref\CL.Manager.dll

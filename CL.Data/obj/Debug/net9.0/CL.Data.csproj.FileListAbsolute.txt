@@ -1,0 +1,12 @@
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\bin\Debug\net9.0\CL.Data.deps.json
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\bin\Debug\net9.0\CL.Data.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\bin\Debug\net9.0\CL.Data.pdb
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\CL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\CL.Data.AssemblyInfoInputs.cache
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\CL.Data.AssemblyInfo.cs
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\CL.Data.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\CL.Data.sourcelink.json
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\CL.Data.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\refint\CL.Data.dll
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\CL.Data.pdb
+D:\Documents\GitHub\PROJETO-.NET\CL.Data\obj\Debug\net9.0\ref\CL.Data.dll
