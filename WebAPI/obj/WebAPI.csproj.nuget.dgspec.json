@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\WebAPI.csproj": {
+    "D:\\Documents\\GitHub\\PROJETO-.NET\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\PROJETO-.NET\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Rangerson TI\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rangerson TI\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -107,9 +107,89 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Rangerson TI\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rangerson TI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\PROJETO-.NET\\Core\\Core.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\Core\\Core.csproj"
+              },
+              "D:\\Documents\\GitHub\\PROJETO-.NET\\Data\\Data.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\PROJETO-.NET\\Data\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.sqlserver": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
